@@ -1,7 +1,5 @@
 ## OpenSeaCreatures ERC721 contracts
 
-By  Shivam Rattan 101339648
-
 ### About OpenSeaCreatures.
 
 This is a very simple sample ERC721 for the purposes of demonstrating integration with the [OpenSea](https://opensea.io) marketplace. We include a script for minting the items.
